@@ -28,7 +28,7 @@ const StartMenu: React.FC<StartMenuProps> = ({
     {
       id: 'about',
       icon: '💖',
-      label: 'About MatchaOS',
+      label: 'About OUR LIL OS',
       items: [
         { icon: '🌸', label: 'Version 1.0', action: () => showAboutNotification() },
         { icon: '💕', label: 'Made with Love', action: () => showLoveNotification() },
